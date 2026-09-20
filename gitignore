@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# Temporary / backup files
+*~
+*.swp
+*.swo
+
+# Keep the local study guide out of Git
+NetPractice_Study_Guide.pdf
